@@ -1,1 +1,1 @@
-Junior Baskend developer
+Junior Backend developer
